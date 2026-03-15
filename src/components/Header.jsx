@@ -1,4 +1,4 @@
-import bgiLogo from '../assets/bgi-logo.svg';
+import bgiLogo from '../assets/BGILogo.png';
 
 export default function Header() {
   return (
